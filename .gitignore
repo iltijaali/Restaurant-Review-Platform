@@ -1,0 +1,25 @@
+# Dependencies
+**/node_modules/
+
+# Environment files
+**/.env
+
+# Build output
+**/dist/
+**/build/
+
+# Logs
+*.log
+
+# TypeScript build info
+*.tsbuildinfo
+
+# Zip files
+*.zip
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
